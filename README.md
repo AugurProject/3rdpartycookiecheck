@@ -31,7 +31,7 @@ after a while, just in case network fails.
 
 ## Live example
 
-Thanks to github pages, the scripts are hosted already at https://mindmup.github.io/3rdpartycookiecheck/start.html -- so you can use that as a live
+Thanks to github pages, the scripts are hosted already at https://AugurProject.github.io/3rdpartycookiecheck/start.html -- so you can use that as a live
 version. For production, it's better to deploy somewhere under your control. 
 
 To see the client code in action, run this JSFiddle: https://jsfiddle.net/tugawg8y/
